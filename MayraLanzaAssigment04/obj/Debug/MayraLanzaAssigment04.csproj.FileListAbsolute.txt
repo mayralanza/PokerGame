@@ -1,0 +1,9 @@
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\bin\Debug\MayraLanzaAssigment04.exe.config
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\bin\Debug\MayraLanzaAssigment04.exe
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\bin\Debug\MayraLanzaAssigment04.pdb
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\obj\Debug\MayraLanzaAssigment04.csprojResolveAssemblyReference.cache
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\obj\Debug\MayraLanzaAssigment04.PokerHand.resources
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\obj\Debug\MayraLanzaAssigment04.Properties.Resources.resources
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\obj\Debug\MayraLanzaAssigment04.csproj.GenerateResource.Cache
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\obj\Debug\MayraLanzaAssigment04.exe
+C:\Users\mayra\Documents\USF Classes\USF FALL 2016\C# Development Software\MayraLanzaAssigment04\MayraLanzaAssigment04\MayraLanzaAssigment04\obj\Debug\MayraLanzaAssigment04.pdb
